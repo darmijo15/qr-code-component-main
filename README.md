@@ -17,13 +17,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![desktop screenshot of my QR-code solution](.solution-Screenshots/desktop-screenshot.png)
-![mobile screenshot of my QR-code solution](.solution-Screenshots/)
+![desktop screenshot of my QR-code solution](.solution_Screenshots/desktop-screenshot.png)
+![mobile screenshot of my QR-code solution](.solution_Screenshots/mobile-screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/darmijo15/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://darmijo15.github.io/qr-code-component-main/)
+- Solution URL: [https://github.com/darmijo15/qr-code-component-main/](https://github.com/darmijo15/qr-code-component-main/)
+- Live Site URL: [https://darmijo15.github.io/qr-code-component-main/](https://darmijo15.github.io/qr-code-component-main/)
 
 ## My process
 
