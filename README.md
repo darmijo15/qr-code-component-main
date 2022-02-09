@@ -63,6 +63,22 @@ body {
 
 This provides yet another way for me to place/style footers in future webpages I design.
 
+After submitting my first solution, I also had to go back and replace my div containers with HTML landmark elements to fix the accessbility issues.
+
+```html
+<body>
+  <div class="content-wrap">
+    <main class="container">
+      <img />
+
+      <h1 class="header"></h1>
+      <p class="text"></p>
+    </main>
+  </div>
+  <footer class="attribution"></footer>
+</body>
+```
+
 ## Author
 
 - GitHub - [Daniel Armijo](https://github.com/darmijo15/)
